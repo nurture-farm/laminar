@@ -1,0 +1,6 @@
+[submodule "laminar-web"]
+	path = laminar-web
+	url = git@github.com:nurture-farm/laminar-web.git
+[submodule "laminar-grpc"]
+	path = laminar-grpc
+	url = git@github.com:nurture-farm/laminar-grpc.git
